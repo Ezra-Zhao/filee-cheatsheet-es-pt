@@ -1,5 +1,7 @@
 # 🍩 Guía rápida: Filee — convierte archivos arrastrando, sin subir nada (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 [🇪🇸 Español](#-español) · [🇵🇹 Português](#-português) · [🇬🇧 English summary](#-english-summary)
 
 Una sola página para usar **Filee** (de KnifeLemon): el conversor gratuito y de código abierto que funciona arrastrando. Mantienes pulsada una tecla, arrastras tus archivos, los sueltas sobre el formato en la rosca que aparece junto a tu cursor, y el archivo convertido queda al lado del original. Más de 244 formatos, sin cuentas, sin subir nada a ningún servidor y sin tener Office instalado.
